@@ -1,7 +1,3 @@
-# Certainly! Writing a good README is essential for anyone who wants to understand and contribute to your Git repository. Here's a basic template that you can use and customize for your HackerRank solutions:
-
----
-
 # HackerRank Solutions
 
 This repository contains my solutions to various problems on HackerRank. Each subdirectory represents a different category or domain, and within each directory, you'll find the solutions to individual problems.
